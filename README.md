@@ -12,7 +12,7 @@ Welcome to the official developer documentation repository for **VerixID**. This
 
 To integrate VerixID into your project:
 
-1. Request an API Key from the Verixid Developer Dashboard.
+1. Request an API Key from the VerixID Developer Dashboard.
 2. Choose your preferred SDK or use our HTTP API endpoints directly.
 3. Follow the quickstart guide in our live documentation.
 
