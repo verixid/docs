@@ -95,21 +95,3 @@ Cryptographic fingerprint
  Independent verification
 
  
-```text
-File
-  │
-  ▼
-SHA-256
-  │
-  ▼
-Cryptographic fingerprint
-  │
-  ├── Timestamp
-  ├── Record ID
-  └── Digital signature
-          │
-          ▼
-     Verification record
-          │
-          ▼
-   Independent verification
