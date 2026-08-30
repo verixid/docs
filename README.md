@@ -4,10 +4,10 @@ Welcome to the official developer documentation repository for **VerixID**. This
 
 ## 📖 Quick Links
 
-- **Official Website:** [https://verixid.com](https://verixid.com)
-- **Documentation:** [https://verixid.github.io/docs](https://verixid.github.io/docs)
-- **API Reference:** [https://verixid.com/docs/api/](https://verixid.com/docs/api/) — REST API
-- **MCP Server:** [https://verixid.com/docs/mcp/](https://verixid.com/docs/mcp/) — MCP (Model Context Protocol)
+- 🌐 Official Website: https://verixid.com
+- 📚 Documentation & SDKs: https://docs.verixid.com
+- 🛠️ API Reference: https://verixid.com/docs/api/
+- 🤖 MCP Server: https://verixid.com/docs/mcp/
 
 ## 🚀 Getting Started
 
