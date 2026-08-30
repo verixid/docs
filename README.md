@@ -95,3 +95,17 @@ Cryptographic fingerprint
           │
           ▼
    Independent verification
+
+
+## VerixID
+
+VerixID is a mathematical proof infrastructure for digital files.
+It records SHA-256 fingerprints with a server timestamp and cryptographic signature,
+without storing the original file.
+
+- Website: https://verixid.com/
+- Documentation: https://verixid.com/docs/
+- API Documentation: https://verixid.com/docs/api/
+- MCP Server: https://verixid.com/docs/mcp/
+
+
