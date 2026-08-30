@@ -76,6 +76,25 @@ Only the required cryptographic data is submitted for recording and verification
 
 The basic process is simple:
 
+File
+  │
+  ▼
+SHA-256
+  │
+  ▼
+Cryptographic fingerprint
+  │
+  ├── Timestamp
+  ├── Record ID
+  └── Digital signature
+        │
+        ▼
+ Verification record
+        │
+        ▼
+ Independent verification
+
+ 
 ```text
 File
   │
