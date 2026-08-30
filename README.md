@@ -97,6 +97,7 @@ Cryptographic fingerprint
    Independent verification
 
 
+
 ## VerixID
 
 VerixID is a mathematical proof infrastructure for digital files.
