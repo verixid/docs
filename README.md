@@ -1,6 +1,6 @@
-# Verixid Documentation
+# VerixID Documentation
 
-Welcome to the official developer documentation repository for **Verixid**. This repository contains the source files for our API references, integration guides, and SDK usage notes.
+Welcome to the official developer documentation repository for **VerixID**. This repository contains the source files for our API references, integration guides, and SDK usage notes.
 
 ## 📖 Quick Links
 
@@ -10,7 +10,7 @@ Welcome to the official developer documentation repository for **Verixid**. This
 
 ## 🚀 Getting Started
 
-To integrate Verixid into your project:
+To integrate VerixID into your project:
 
 1. Request an API Key from the Verixid Developer Dashboard.
 2. Choose your preferred SDK or use our HTTP API endpoints directly.
@@ -18,7 +18,7 @@ To integrate Verixid into your project:
 
 ## 🛡️ Security & Privacy
 
-If you discover a security vulnerability within Verixid, please send an email to security@verixid.com instead of opening a public issue.
+If you discover a security vulnerability within VerixID, please send an email to security@verixid.com instead of opening a public issue.
 
 ## 📄 License
 
