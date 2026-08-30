@@ -95,7 +95,7 @@ Cryptographic fingerprint
           │
           ▼
    Independent verification
-
+```text
 
 
 ## VerixID
